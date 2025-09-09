@@ -215,7 +215,7 @@
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
                         <Button Content="Verify" Width="140" Height="45" Style="{StaticResource NeutralButton}"/>
                         <Button Content="Approve" Width="140" Height="45" Style="{StaticResource PrimaryButton}"/>
-                        <Button Content="Reject" Width="140" Height="45" Style="{StaticResource RejectButton}"/>
+                        <Button Content="Reject" Width="140" Height="45" Style="{StaticResource RejectButton}"/> 
                     </StackPanel>
                 </StackPanel>
             </TabItem>
