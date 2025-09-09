@@ -48,7 +48,7 @@
                     <Setter Property="Background" Value="{StaticResource RejectRedDarkBrush}"/>
                 </Trigger>
             </Style.Triggers>
-        </Style>
+        </Style> 
 
         <Style x:Key="NeutralButton" TargetType="Button" BasedOn="{StaticResource PrimaryButton}">
             <Setter Property="Background" Value="{StaticResource NeutralGreyBrush}"/>
