@@ -6,7 +6,7 @@
         WindowStartupLocation="CenterScreen"
         Background="{DynamicResource BackgroundLightBrush}">
 
-    <Window.Resources>
+    <Window.Resources> 
 
         <SolidColorBrush x:Key="PrimaryBlueBrush" Color="#3498DB"/>
         <SolidColorBrush x:Key="PrimaryBlueDarkBrush" Color="#2980B9"/>
