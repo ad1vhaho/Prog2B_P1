@@ -4,7 +4,7 @@
         Title="Contract Monthly Claim System"
         Height="600" Width="1100"
         WindowStartupLocation="CenterScreen"
-        Background="{DynamicResource BackgroundLightBrush}">
+        Background="{DynamicResource BackgroundLightBrush}"> 
 
     <Window.Resources> 
 
